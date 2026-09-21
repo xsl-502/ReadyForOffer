@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agent 学习路线/大模型介绍/基本概念.md",
+                "file": "Agent 学习路线/大模型介绍/大模型能力边界与破局之道.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基本概念"
+              "title": "大模型能力边界与破局之道"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "22de75445c04c4d5",
@@ -188,8 +189,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "2fb58040493bfc17",
+  "active": "e418c6f3597dcdf8",
   "lastOpenFiles": [
+    "Agent 学习路线/大模型介绍/基本概念.md",
+    "Agent 学习路线/大模型介绍/大模型能力边界与破局之道.md",
+    "resourcePNG/截屏2026-09-20 14.19.50.png",
     "resourcePNG/截屏2026-09-20 10.54.05.png",
     "resourcePNG/截屏2026-09-20 10.36.31.png",
     "resourcePNG/截屏2026-09-20 10.32.43 1.png",
@@ -203,14 +207,11 @@
     "resourcePNG/截屏2026-09-20 09.43.35.png",
     "zdww/健身减脂计划.md",
     "zdww/高效学习计划.md",
-    "Agent 学习路线/大模型介绍/基本概念.md",
     "zdww/学习作息表.md",
     "Agent 学习路线/大模型介绍/大模型基础.md",
     "Agent 学习路线/大模型介绍/大模型工作原理剖析.md",
     "resourcePNG/{AC5FB3D1-8075-4194-95F7-DCD9F24738EF}.png",
     "{AC5FB3D1-8075-4194-95F7-DCD9F24738EF}.png",
-    "resourcePNG/截屏2026-09-08 11.00.03.png",
-    "resourcePNG/截屏2026-09-08 13.33.57.png",
     "resourcePNG",
     "未命名文件夹",
     "Agent 学习路线/未命名.md",
