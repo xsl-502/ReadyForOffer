@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agent 学习路线/大模型介绍/大模型能力边界与破局之道.md",
+                "file": "LLMOperate/llm-api-practice/LEARNING_PLAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大模型能力边界与破局之道"
+              "title": "LEARNING_PLAN"
+            }
+          },
+          {
+            "id": "678313c4766995e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agent 学习路线/大模型介绍/大模型训练与微调技术全貌.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "大模型训练与微调技术全貌"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "22de75445c04c4d5",
@@ -189,11 +203,18 @@
       "bases:新建数据库": false
     }
   },
-  "active": "e418c6f3597dcdf8",
+  "active": "678313c4766995e5",
   "lastOpenFiles": [
+    "LLMOperate/llm-api-practice/LEARNING_PLAN.md",
+    "Agent 学习路线/大模型介绍/大模型训练与微调技术全貌.md",
+    "Agent 学习路线/大模型介绍/大模型能力边界与破局之道.md",
+    "LLMOperate/llm-api-practice",
+    "LLMOperate",
+    "未命名文件夹",
+    "resourcePNG/截屏2026-09-22 15.36.43.png",
+    "截屏2026-09-22 15.36.43.png",
     "zdww/ZdwwSchedulePlus.docx",
     "Agent 学习路线/大模型介绍/基本概念.md",
-    "Agent 学习路线/大模型介绍/大模型能力边界与破局之道.md",
     "resourcePNG/截屏2026-09-20 14.19.50.png",
     "resourcePNG/截屏2026-09-20 10.54.05.png",
     "resourcePNG/截屏2026-09-20 10.36.31.png",
@@ -211,14 +232,9 @@
     "zdww/学习作息表.md",
     "Agent 学习路线/大模型介绍/大模型基础.md",
     "Agent 学习路线/大模型介绍/大模型工作原理剖析.md",
-    "resourcePNG/{AC5FB3D1-8075-4194-95F7-DCD9F24738EF}.png",
-    "{AC5FB3D1-8075-4194-95F7-DCD9F24738EF}.png",
     "resourcePNG",
-    "未命名文件夹",
     "Agent 学习路线/未命名.md",
     "Agent 学习路线/大模型介绍",
-    "字节跳动/算法&AI/2025.md",
-    "Agent 学习路线",
-    "字节跳动/算法&AI"
+    "字节跳动/算法&AI/2025.md"
   ]
 }
