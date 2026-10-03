@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agent 学习路线/大模型介绍/大模型训练与微调技术全貌.md",
+                "file": "Agent 学习路线/大模型介绍/基本概念.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大模型训练与微调技术全貌"
+              "title": "基本概念"
             }
           }
         ],
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "22de75445c04c4d5",
@@ -206,36 +205,38 @@
   },
   "active": "678313c4766995e5",
   "lastOpenFiles": [
-    "学科竞赛/MCM/figures/traveler_all.jpg",
-    "学科竞赛/MCM/figures/traveler.jpg",
-    "学科竞赛/MCM/figures/tourist.jpg",
-    "学科竞赛/MCM/figures/suburban.jpg",
-    "学科竞赛/MCM/figures/resident_all.jpg",
-    "学科竞赛/MCM/figures/resident.jpg",
-    "学科竞赛/MCM/figures/nodes.jpg",
-    "学科竞赛/MCM/figures/gk-pyc8xsaejjhz-1.jpg",
-    "学科竞赛/MCM/figures/footway1.jpg",
-    "学科竞赛/MCM/figures/f63b86a27be347b8dfa4e9440ec383f.png",
-    "学科竞赛/MCM/figures/dd448fd9e8db9f5cda278992f149265.jpg",
-    "学科竞赛/MCM/code/mcmthesis-sudoku.cpp",
-    "学科竞赛/MCM/code/mcmthesis-matlab1.m",
-    "学科竞赛/MCM/mcmthesis.cls",
-    "学科竞赛/MCM/mcmthesis-demo.tex",
-    "学科竞赛/MCM/figures",
-    "学科竞赛/MCM/cumcmthesis.cls",
-    "学科竞赛/MCM/code",
-    "学科竞赛/MCM/YaHei.Consolas.1.11b.ttf",
-    "学科竞赛/MCM",
-    "学科竞赛/MathorCup/figures/example.eps",
-    "Agent 学习路线/大模型介绍/基本概念.md",
-    "LLMOperate/llm-api-practice/LEARNING_PLAN.md",
     "Agent 学习路线/大模型介绍/大模型训练与微调技术全貌.md",
     "Agent 学习路线/大模型介绍/大模型能力边界与破局之道.md",
+    "Agent 学习路线/大模型介绍/大模型工作原理剖析.md",
+    "Agent 学习路线/大模型介绍/大模型基础.md",
+    "Agent 学习路线/大模型介绍/基本概念.md",
+    "resourcePNG/截屏2026-10-02 14.39.21.png",
+    "resourcePNG/截屏2026-10-02 14.29.11.png",
+    "resourcePNG/截屏2026-10-02 13.55.49.png",
+    "PersonalHonor/TaiDiBei2.jpg",
+    "PersonalHonor/美赛 ACM.jpg",
+    "PersonalHonor/TaiDiBei.jpg",
+    "PersonalHonor/TaiDiBei(pronounce).jpg",
+    "PersonalHonor/MathorCup.jpg",
+    "PersonalHonor/HarmonyOS.jpg",
+    "PersonalHonor/CMC.jpg",
+    "PersonalHonor",
+    "zdww/ZDWW_Resume/朱定文简历.docx",
+    "zdww/ZDWW_Resume/朱定文_外企简历.pdf",
+    "zdww/ZDWW_Resume/朱定文_外企简历.docx",
+    "zdww/ZDWW_Resume/朱定文_国企简历.pdf",
+    "zdww/ZDWW_Resume/朱定文_国企简历.docx",
+    "zdww/ZDWW_Resume",
+    "ZDWW_Resume/朱定文简历.docx",
+    "ZDWW_Resume/朱定文_国企简历.docx",
+    "ZDWW_Resume/朱定文_外企简历.docx",
+    "GithubTemplateofUESTC/TemplateOfUESTC/2019ThesisUESTC- PROFESSIONAL MASTER/README.md",
+    "TemplateOfUESTC/2019ThesisUESTC- PROFESSIONAL MASTER/README.md",
+    "2019ThesisUESTC- PROFESSIONAL MASTER/README.md",
+    "LLMOperate/llm-api-practice/LEARNING_PLAN.md",
     "zdww/健身减脂计划.md",
     "zdww/高效学习计划.md",
     "zdww/学习作息表.md",
-    "Agent 学习路线/大模型介绍/大模型基础.md",
-    "Agent 学习路线/大模型介绍/大模型工作原理剖析.md",
     "Agent 学习路线/未命名.md",
     "字节跳动/算法&AI/2025.md"
   ]
